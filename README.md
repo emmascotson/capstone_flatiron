@@ -4,7 +4,7 @@
 
 This project aims to determine high-risk factors of diabetes, and use them to build a model that can help insurance companies, and users, identify people at high-risk for the disease.
 
-![Diabetes Report Card](Diabetes Report Card)
+![Diabetes Report Card](diabetes_report)
 
 # Data Understanding
 
