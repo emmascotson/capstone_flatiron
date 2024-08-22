@@ -60,3 +60,17 @@ I also had to account for class imbalance using techniques such as SMOTE and adj
 # Evaluation
 
 Random Forest was the most successful model. My main metric was ***Recall***, weighted to account for class imbalance.
+
+# Conclusions
+
+### Best Model: Random Forest
+
+### Most Important Features: Age, State, Eye Exam, BMI, Hours of Sleep
+
+### Next Steps:
+
+**Explore Feature Importance Findings**: Examine why belong to certain states, age groups, etc. makes a person more prone to diabetes diagnosis
+
+**Genetic VS. Behavioral Distinction**: Build a model based solely on genetic factors that can help screen newborn babies at birth for whether they’re higher-risk
+
+**Application Development**: Interactive application for mobile-phones allowing insurance-users to track behavioral and medical lifestyle fluctuations, & determine whether they should be medically cautious about developing certain diseases
